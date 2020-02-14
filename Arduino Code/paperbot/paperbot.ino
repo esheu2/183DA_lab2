@@ -81,8 +81,6 @@ int servo_right_ctr = 90;
 
 
 // WiFi AP parameters
-//char* ap_ssid = "2wheelcar";
-//char* ap_password = "12345678";
 char ap_ssid[13];
 char* ap_password = "";
 
